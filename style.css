@@ -1,0 +1,12 @@
+*{
+    padding:0;
+    margin:0;
+}
+canvas{
+    margin-left: 400px;
+    border: 5px solid blue;
+}
+button{
+    padding: 8px;border-radius: 10px;
+}
+button:hover{background-color: blue;color: red;padding: 8px;border-radius: 10px;}
